@@ -3,6 +3,6 @@ package org.intellijTest;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("test_intellijTest");
+        System.out.println("test_intellijIDEATest");
     }
 }

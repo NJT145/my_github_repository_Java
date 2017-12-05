@@ -1,6 +1,6 @@
 package tr.edu.sehir.server;
 
-import tr.edu.sehir.Order;
+import tr.edu.sehir.common.Order;
 
 public interface CookInterface {
     public String getName();

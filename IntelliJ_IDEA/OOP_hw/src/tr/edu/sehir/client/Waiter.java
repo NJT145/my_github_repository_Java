@@ -1,6 +1,6 @@
 package tr.edu.sehir.client;
 
-import tr.edu.sehir.Order;
+import tr.edu.sehir.common.Order;
 
 public class Waiter implements WaiterInterface {
 

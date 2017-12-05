@@ -1,4 +1,4 @@
-package tr.edu.sehir;
+package tr.edu.sehir.common;
 
 import java.io.Serializable;
 

@@ -1,6 +1,6 @@
 package tr.edu.sehir.server;
 
-import tr.edu.sehir.Order;
+import tr.edu.sehir.common.Order;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

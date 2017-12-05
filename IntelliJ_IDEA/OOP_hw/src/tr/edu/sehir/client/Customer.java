@@ -1,7 +1,5 @@
 package tr.edu.sehir.client;
 
-import tr.edu.sehir.Order;
-
 public class Customer implements CustomerInterface {
 
     public Customer(String Name) { this.name = Name; }

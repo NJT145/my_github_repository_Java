@@ -1,3 +1,6 @@
+# Eclipse Java Neon project settings
+*.metadata
+
 # IntelliJ IDEA project settings
 *.idea
 *.iml

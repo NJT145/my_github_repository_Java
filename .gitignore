@@ -1,10 +1,9 @@
-# Eclipse Java Neon project settings
 *.metadata
+#*.idea
 
-### IntelliJ IDEA ###
-*.idea
 
-#############
+###################
+
 # Created by https://www.gitignore.io/api/java
 
 ### Java ###
